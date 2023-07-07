@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3743695548.index
+2265477305.index
+3714252005.index

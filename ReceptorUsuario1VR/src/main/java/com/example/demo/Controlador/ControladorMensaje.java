@@ -1,0 +1,46 @@
+package com.example.demo.Controlador;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.jms.core.JmsTemplate;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.Modelo.Mensaje;
+
+import jakarta.jms.Queue;
+
+@RestController
+public class ControladorMensaje {
+    @Autowired
+    JmsTemplate jmsTemplate;
+    
+    @PostMapping("/mensaje")
+    public ResponseEntity<Mensaje> enviarMensaje(@RequestBody Mensaje mensaje) {
+        try {
+            Queue cola = jmsTemplate.getConnectionFactory()
+                    .createConnection()
+                    .createSession()
+                    .createQueue("Usuario1");
+            Mensaje mensajeActualizado = new Mensaje(mensaje.getFechaHora(), mensaje.getMensaje(), "Usuario1");
+            jmsTemplate.convertAndSend(cola, mensajeActualizado);
+            return new ResponseEntity<>(mensajeActualizado, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+    
+    @GetMapping("/leermensaje")
+    public ResponseEntity<Mensaje> leerMensaje() {
+        try {
+            jmsTemplate.setReceiveTimeout(1000);
+            Mensaje mensaje = (Mensaje) jmsTemplate.receiveAndConvert("Usuario1");
+            return new ResponseEntity<>(mensaje, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+}

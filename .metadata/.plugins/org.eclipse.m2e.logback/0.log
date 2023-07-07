@@ -1,0 +1,270 @@
+2023-07-07 07:45:19,417 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-07 07:50:05,229 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Emisor1:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\demo\pom.xml.
+2023-07-07 07:50:09,872 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2023-07-07 07:50:09,895 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-07-07 07:50:10,028 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-07-07 07:50:10,198 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2023-07-07 07:50:20,858 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 21 sec
+2023-07-07 07:50:20,878 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-07 07:50:21,772 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Emisor1:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\demo\pom.xml.
+2023-07-07 07:50:28,338 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2023-07-07 07:50:28,369 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-07-07 07:50:28,452 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-07-07 07:50:28,459 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2023-07-07 07:50:32,965 [Worker-9: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demo
+2023-07-07 07:50:33,228 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 6.00 sec, update config takes 5.00 sec 
+2023-07-07 07:50:35,856 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 07:50:35,944 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 07:50:35,978 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\demo\src\test\resources
+2023-07-07 07:50:35,983 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2023-07-07 07:50:35,985 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2023-07-07 07:52:17,415 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Emisor1:0.0.1-SNAPSHOT @ C:\Users\Ray Vargas\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Emisor1\pom.xml.
+2023-07-07 07:52:20,283 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 07:52:20,360 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 07:52:20,369 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Ray Vargas\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Emisor1\src\test\resources
+2023-07-07 07:53:39,323 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Emisor1:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\Emisor1\pom.xml.
+2023-07-07 07:53:42,720 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Emisor1/src/main/java
+2023-07-07 07:53:42,725 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Emisor1/src/main/resources
+2023-07-07 07:53:42,826 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Emisor1/src/main/resources
+2023-07-07 07:53:42,955 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Emisor1/src/test/java
+2023-07-07 07:53:50,989 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2023-07-07 07:53:51,009 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-07 07:53:52,069 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Emisor1:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\Emisor1\pom.xml.
+2023-07-07 07:53:56,722 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Emisor1/src/main/java
+2023-07-07 07:53:56,726 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Emisor1/src/main/resources
+2023-07-07 07:53:56,731 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Emisor1/src/main/resources
+2023-07-07 07:53:56,738 [Worker-25: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Emisor1/src/test/java
+2023-07-07 07:53:59,328 [Worker-25: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Emisor1
+2023-07-07 07:53:59,581 [Worker-25: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 2.00 sec 
+2023-07-07 07:54:00,008 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-07 07:54:00,866 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Emisor1:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\Emisor1\pom.xml.
+2023-07-07 07:54:03,312 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Emisor1/src/main/java
+2023-07-07 07:54:03,314 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Emisor1/src/main/resources
+2023-07-07 07:54:03,316 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Emisor1/src/main/resources
+2023-07-07 07:54:03,319 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Emisor1/src/test/java
+2023-07-07 07:54:04,875 [Worker-13: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Emisor1
+2023-07-07 07:54:05,136 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2023-07-07 07:54:06,739 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 07:54:06,833 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 07:54:06,856 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\Emisor1\src\test\resources
+2023-07-07 07:54:06,858 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Emisor1
+2023-07-07 07:54:06,861 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Emisor1
+2023-07-07 07:55:27,390 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmisorUsuario1VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\pom.xml.
+2023-07-07 07:55:30,366 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario1VR/src/main/java
+2023-07-07 07:55:30,371 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario1VR/src/main/resources
+2023-07-07 07:55:30,453 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario1VR/src/main/resources
+2023-07-07 07:55:30,542 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario1VR/src/test/java
+2023-07-07 07:55:36,091 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2023-07-07 07:55:36,107 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-07 07:55:36,859 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmisorUsuario1VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\pom.xml.
+2023-07-07 07:55:40,538 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario1VR/src/main/java
+2023-07-07 07:55:40,541 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario1VR/src/main/resources
+2023-07-07 07:55:40,543 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario1VR/src/main/resources
+2023-07-07 07:55:40,547 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario1VR/src/test/java
+2023-07-07 07:55:42,756 [Worker-31: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for EmisorUsuario1VR
+2023-07-07 07:55:42,998 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 2.00 sec 
+2023-07-07 07:55:43,444 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-07 07:55:44,348 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmisorUsuario1VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\pom.xml.
+2023-07-07 07:55:48,076 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario1VR/src/main/java
+2023-07-07 07:55:48,081 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario1VR/src/main/resources
+2023-07-07 07:55:48,085 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario1VR/src/main/resources
+2023-07-07 07:55:48,092 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario1VR/src/test/java
+2023-07-07 07:55:50,318 [Worker-29: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for EmisorUsuario1VR
+2023-07-07 07:55:50,615 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 2.00 sec 
+2023-07-07 07:55:52,004 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 07:55:52,253 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 07:55:52,281 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 07:55:52,283 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of EmisorUsuario1VR
+2023-07-07 07:55:52,284 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for EmisorUsuario1VR
+2023-07-07 07:56:17,986 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ReceptorUsuario2VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\pom.xml.
+2023-07-07 07:56:20,845 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReceptorUsuario2VR/src/main/java
+2023-07-07 07:56:20,849 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReceptorUsuario2VR/src/main/resources
+2023-07-07 07:56:20,937 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReceptorUsuario2VR/src/main/resources
+2023-07-07 07:56:21,020 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReceptorUsuario2VR/src/test/java
+2023-07-07 07:56:25,801 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2023-07-07 07:56:25,838 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-07 07:56:26,333 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ReceptorUsuario2VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\pom.xml.
+2023-07-07 07:56:29,988 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReceptorUsuario2VR/src/main/java
+2023-07-07 07:56:29,992 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReceptorUsuario2VR/src/main/resources
+2023-07-07 07:56:29,995 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReceptorUsuario2VR/src/main/resources
+2023-07-07 07:56:29,999 [Worker-16: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReceptorUsuario2VR/src/test/java
+2023-07-07 07:56:32,678 [Worker-16: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ReceptorUsuario2VR
+2023-07-07 07:56:32,897 [Worker-16: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 3.00 sec 
+2023-07-07 07:56:34,339 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 07:56:34,415 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 07:56:34,438 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 07:56:34,439 [Worker-20: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ReceptorUsuario2VR
+2023-07-07 07:56:34,443 [Worker-20: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ReceptorUsuario2VR
+2023-07-07 08:23:59,869 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ReceptorUsuario1VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\pom.xml.
+2023-07-07 08:24:01,356 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReceptorUsuario1VR/src/main/java
+2023-07-07 08:24:01,358 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReceptorUsuario1VR/src/main/resources
+2023-07-07 08:24:01,409 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReceptorUsuario1VR/src/main/resources
+2023-07-07 08:24:01,450 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReceptorUsuario1VR/src/test/java
+2023-07-07 08:24:04,990 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-07-07 08:24:05,027 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-07 08:24:05,563 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ReceptorUsuario1VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\pom.xml.
+2023-07-07 08:24:08,170 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReceptorUsuario1VR/src/main/java
+2023-07-07 08:24:08,171 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReceptorUsuario1VR/src/main/resources
+2023-07-07 08:24:08,173 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReceptorUsuario1VR/src/main/resources
+2023-07-07 08:24:08,180 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReceptorUsuario1VR/src/test/java
+2023-07-07 08:24:10,143 [Worker-27: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ReceptorUsuario1VR
+2023-07-07 08:24:10,371 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 2.00 sec 
+2023-07-07 08:24:11,548 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:24:11,615 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:24:11,639 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\src\test\resources
+2023-07-07 08:24:11,647 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ReceptorUsuario1VR
+2023-07-07 08:24:11,649 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ReceptorUsuario1VR
+2023-07-07 08:25:32,432 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmisorUsuario2VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\pom.xml.
+2023-07-07 08:25:33,934 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario2VR/src/main/java
+2023-07-07 08:25:33,937 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario2VR/src/main/resources
+2023-07-07 08:25:33,974 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario2VR/src/main/resources
+2023-07-07 08:25:34,027 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario2VR/src/test/java
+2023-07-07 08:25:37,540 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2023-07-07 08:25:37,556 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-07 08:25:38,126 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmisorUsuario2VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\pom.xml.
+2023-07-07 08:25:40,673 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario2VR/src/main/java
+2023-07-07 08:25:40,674 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario2VR/src/main/resources
+2023-07-07 08:25:40,675 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmisorUsuario2VR/src/main/resources
+2023-07-07 08:25:40,679 [Worker-27: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmisorUsuario2VR/src/test/java
+2023-07-07 08:25:42,154 [Worker-27: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for EmisorUsuario2VR
+2023-07-07 08:25:42,297 [Worker-27: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2023-07-07 08:25:43,250 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:25:43,303 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:25:43,329 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\src\test\resources
+2023-07-07 08:25:43,329 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of EmisorUsuario2VR
+2023-07-07 08:25:43,330 [Worker-36: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for EmisorUsuario2VR
+2023-07-07 08:29:06,207 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:29:06,275 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:29:06,303 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 08:29:53,228 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:29:53,343 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:29:53,435 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 08:30:25,051 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:30:25,119 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:30:25,158 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 08:31:53,772 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmisorUsuario1VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\pom.xml.
+2023-07-07 08:31:56,472 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:31:56,475 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:31:56,490 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 08:31:56,491 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of EmisorUsuario1VR
+2023-07-07 08:31:56,492 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for EmisorUsuario1VR
+2023-07-07 08:33:23,497 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:33:23,604 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:33:23,639 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 08:37:40,065 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:37:40,111 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:37:40,129 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 08:39:36,840 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:39:36,880 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:39:36,903 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 08:43:56,610 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:43:56,663 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:43:56,701 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 08:44:39,671 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:44:39,738 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:44:39,790 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 08:45:09,337 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:45:09,416 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:45:09,464 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 08:46:44,938 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:46:44,975 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:46:44,994 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 08:48:40,468 [Worker-62: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ReceptorUsuario2VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\pom.xml.
+2023-07-07 08:48:42,790 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:48:42,808 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:48:42,827 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 08:48:42,828 [Worker-62: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ReceptorUsuario2VR
+2023-07-07 08:48:42,830 [Worker-62: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ReceptorUsuario2VR
+2023-07-07 08:48:48,156 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:48:48,214 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:48:48,238 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 08:50:22,723 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:50:22,764 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:50:22,781 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 08:51:24,948 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:51:24,969 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:51:24,981 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 08:53:11,439 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 08:53:11,471 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 08:53:11,492 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 09:07:38,838 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:07:38,866 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:07:38,879 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 09:08:04,522 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:08:04,547 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:08:04,559 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 09:16:10,180 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:16:10,205 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:16:10,217 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 09:16:30,280 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:16:30,302 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:16:30,315 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 09:22:08,957 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:22:09,003 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:22:09,025 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 09:24:33,795 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:24:33,869 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:24:33,911 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\src\test\resources
+2023-07-07 09:26:08,383 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:26:08,437 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:26:08,465 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\src\test\resources
+2023-07-07 09:26:40,541 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:26:40,595 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:26:40,615 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\src\test\resources
+2023-07-07 09:28:36,167 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:28:36,207 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:28:36,224 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\src\test\resources
+2023-07-07 09:33:36,866 [Worker-103: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ReceptorUsuario1VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\pom.xml.
+2023-07-07 09:33:39,422 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:33:39,425 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:33:39,441 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\src\test\resources
+2023-07-07 09:33:39,442 [Worker-103: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ReceptorUsuario1VR
+2023-07-07 09:33:39,442 [Worker-103: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ReceptorUsuario1VR
+2023-07-07 09:34:06,590 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:34:06,673 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:34:06,701 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 09:34:31,282 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:34:31,360 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:34:31,377 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\src\test\resources
+2023-07-07 09:35:26,905 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:35:26,947 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:35:26,972 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\src\test\resources
+2023-07-07 09:36:45,781 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:36:45,838 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:36:45,857 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 09:38:16,178 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:38:16,231 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:38:16,260 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario2VR\src\test\resources
+2023-07-07 09:39:04,173 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:39:04,219 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:39:04,250 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\ReceptorUsuario1VR\src\test\resources
+2023-07-07 09:40:45,311 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:40:45,410 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:40:45,440 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 09:40:45,977 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:40:46,013 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:40:46,027 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\src\test\resources
+2023-07-07 09:40:57,646 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:40:57,724 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:40:57,752 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario1VR\src\test\resources
+2023-07-07 09:40:58,230 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:40:58,257 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:40:58,296 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\src\test\resources
+2023-07-07 09:41:05,064 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:41:05,186 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:41:05,264 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\src\test\resources
+2023-07-07 09:41:10,324 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:41:10,357 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:41:10,371 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\src\test\resources
+2023-07-07 09:41:16,834 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:41:16,883 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:41:16,938 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\src\test\resources
+2023-07-07 09:42:07,167 [Worker-107: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmisorUsuario2VR:0.0.1-SNAPSHOT @ G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\pom.xml.
+2023-07-07 09:42:09,707 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:42:09,710 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:42:09,727 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\src\test\resources
+2023-07-07 09:42:09,728 [Worker-107: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of EmisorUsuario2VR
+2023-07-07 09:42:09,729 [Worker-107: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for EmisorUsuario2VR
+2023-07-07 09:42:51,691 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-07 09:42:51,765 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-07 09:42:51,795 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Mi unidad\DOCUMENTOS IDAT\CICLO 5\Aplicaciones Con Enfoque Orientado a Servicios\EC2\EmisorUsuario2VR\src\test\resources
